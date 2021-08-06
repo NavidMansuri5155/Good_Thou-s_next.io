@@ -10,7 +10,7 @@ export default function About() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       {/* TWITTER POST */}
-      <blockquote class="twitter-tweet">
+      <blockquote className="twitter-tweet">
         <p lang="en" dir="ltr">How To Make Emoji Search With React.js
           <a href="https://twitter.com/hashtag/emoji?src=hash&amp;ref_src=twsrc%5Etfw">#emoji</a>
           <a href="https://twitter.com/hashtag/reactjs?src=hash&amp;ref_src=twsrc%5Etfw">#reactjs</a>
